@@ -1,0 +1,10 @@
+[
+  {
+    "package": "motus",
+    "url": "https://github.com/MotusWTS/motus"
+  },
+  {
+    "package": "naturecounts",
+    "url": "https://github.com/birdscanada/naturecounts"
+  }
+]
