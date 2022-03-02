@@ -1,10 +1,14 @@
 [
   {
-    "package": "motus",
-    "url": "https://github.com/MotusWTS/motus"
+    "url": "https://github.com/MotusWTS/motus",
+    "package": "motus"
   },
   {
-    "package": "naturecounts",
-    "url": "https://github.com/birdscanada/naturecounts"
+    "url": "https://github.com/MotusWTS/motusData",
+    "package": "motusData"
+  },
+  {
+    "url": "https://github.com/birdscanada/naturecounts",
+    "package": "naturecounts"
   }
 ]
